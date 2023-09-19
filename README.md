@@ -33,7 +33,7 @@ Approximate Probability Calculation:<br>
 (i) Specify the variable for which you want to calculate the approximate probabilities (query_variable).<br>
 (ii)Use .value_counts(normalize=True) on the samples of the query_variable to calculate approximate probabilities.<br>
 ## Step 7:
-Print Approximate Probabilities:
+Print Approximate Probabilities:<br>
 (i) Print the calculated approximate probabilities for the specified query_variable.<br>
 
 ## Program :
